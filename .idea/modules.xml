@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Androidplugin.iml" filepath="$PROJECT_DIR$/.idea/modules/Androidplugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Androidplugin.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Androidplugin.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lifecycle-annotation/Androidplugin.lifecycle-annotation.iml" filepath="$PROJECT_DIR$/.idea/modules/lifecycle-annotation/Androidplugin.lifecycle-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lifecycle-api/Androidplugin.lifecycle-api.iml" filepath="$PROJECT_DIR$/.idea/modules/lifecycle-api/Androidplugin.lifecycle-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lifecycle-apt/Androidplugin.lifecycle-apt.iml" filepath="$PROJECT_DIR$/.idea/modules/lifecycle-apt/Androidplugin.lifecycle-apt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lifecycle-plugin/Androidplugin.lifecycle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/lifecycle-plugin/Androidplugin.lifecycle-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module-1/Androidplugin.module-1.iml" filepath="$PROJECT_DIR$/.idea/modules/module-1/Androidplugin.module-1.iml" />
+    </modules>
+  </component>
+</project>
