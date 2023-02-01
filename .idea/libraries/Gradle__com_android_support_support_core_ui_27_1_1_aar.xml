@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-core-ui:27.1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/wrapper/dists/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/2321498e6975692f769fe54e8cabc80f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/wrapper/dists/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/2321498e6975692f769fe54e8cabc80f/res" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/wrapper/dists/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/2321498e6975692f769fe54e8cabc80f/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
